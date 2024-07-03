@@ -1,6 +1,7 @@
 # MTG-GNT-EDA
 EDA, based on MTG Game Night product from 2018
 
+
 Introduction:
 
 For this project, we have taken a specific card deck from the game Magic The Gathering. It's a collectible card game published by the company "Wizards of The Coast", a Hasbro subsidiary. The game represents a fight between two powerful mages called planeswalkers, who have the capacity to summon any land, creature or item from a magical dimension of their desire. This is represented by the cards they pull from their decks. The objective is to reduce the opponent's life points to 0. Players take turns, during which they have to decide which cards to pull and cast spells with a magical resource called "mana".
@@ -12,9 +13,13 @@ We will analyze the card deck. We want to know how many and what cards are in it
 *The 5 colors in Magic are white, blue, black, red, and green.
 
 
+
+
 In conclusion:
 
 The deck is mostly comprised of lands and creature cards. It also has a not insignificant amount of sorcery and instant typed cards. The power level of the sorceries proved too difficult to handle at face level, so we focused on the card type Creature, whose numerical values could more appropriately give a tangible representation of the deck’s power level. This project can be used on any other deck, as long as it is in an similarly formatted CSV file with the same column names. In and of itself, it is a primary example of a good starting point for someone new to MTG.
+
+
 
 
 As for DataCamp:
